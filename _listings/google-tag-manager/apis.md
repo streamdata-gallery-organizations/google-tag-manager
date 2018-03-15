@@ -13,8 +13,8 @@ tags:
 - Tags
 - Stack Network
 - Google APIs
-created: "2018-03-11"
-modified: "2018-03-11"
+created: "2018-03-15"
+modified: "2018-03-15"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-tag-manager/master/_listings/google-tag-manager/apis.yaml
 specificationVersion: "0.14"
 apis:
