@@ -36,7 +36,8 @@ paths:
         200:
           description: OK
       tags:
-      - container version
+      - containers
+      - versions
 definitions:
   Account:
     properties:
