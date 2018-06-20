@@ -4,7 +4,7 @@ x-collection-name: Google Tag Manager
 x-complete: 1
 info:
   title: Tag Manager
-  description: accesses-tag-manager-accounts-and-containers
+  description: accesses-tag-manager-accounts-and-containers-
   contact:
     name: Google
     url: https://google.com

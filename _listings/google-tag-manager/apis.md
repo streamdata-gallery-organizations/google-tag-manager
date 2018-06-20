@@ -9,10 +9,10 @@ description: Deploy and update measurement tags on your websites and mobile apps
   tags on your site quickly.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/googl_tag_manager_gplus-250.png
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Google Tag Manager
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-tag-manager/master/_listings/google-tag-manager/apis.md
 specificationVersion: "0.14"
 apis:
